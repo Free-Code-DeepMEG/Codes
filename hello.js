@@ -1,1 +1,1 @@
-const pair = "extarordinare"
+const pair = "extravagon"
